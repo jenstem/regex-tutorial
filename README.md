@@ -42,7 +42,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 <a id='installation'></a>
 ## Installation
-There is no need to install anything.  Simply click the link to the [Regex Tutorial](https://gist.github.com/jenstem/16e5b007be2ac379f1b8298ca10e2a27.js) to view.
+There is no need to install anything.  Simply click the link to the [Regex Tutorial](https://gist.github.com/jenstem/16e5b007be2ac379f1b8298ca10e2a27) to view.
 ##
 
 <a id='usage'></a>
