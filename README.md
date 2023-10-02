@@ -42,7 +42,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 <a id='installation'></a>
 ## Installation
-There is no need to install anything.  Simply click the link to the [Regex Tutorial](<script src="https://gist.github.com/jenstem/16e5b007be2ac379f1b8298ca10e2a27.js) to view.
+There is no need to install anything.  Simply click the link to the [Regex Tutorial](https://gist.github.com/jenstem/16e5b007be2ac379f1b8298ca10e2a27.js) to view.
 ##
 
 <a id='usage'></a>
@@ -76,7 +76,3 @@ GitHub URL:  https://github.com/jenstem
 ## Notes:
 
 I used code found on, [GitHub.com](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) to add code blocks to my gist file.
-
-I used information found on, [codeacademy.com](https://www.codecademy.com/resources/docs/javascript/regexp) for my flags section.
-
-I used information found on, [geeksforgeeks.org](https://www.geeksforgeeks.org/regex-boundary-matchers-in-java/) for my boundaries section.
